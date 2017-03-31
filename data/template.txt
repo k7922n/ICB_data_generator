@@ -1,0 +1,7 @@
+我想要看[time]在[theater name]的[movie name]
+我想要看[time]的[movie name]
+我想要看在[theater name]的[movie name]
+在[time]的時候於[theater name]有哪些電影
+[time]的電影
+在[theater name]上映的電影
+我要看[movie name]
